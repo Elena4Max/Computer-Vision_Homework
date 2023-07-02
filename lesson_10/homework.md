@@ -10,19 +10,19 @@ Then I set up the tracker, set the template, and initialize it. Next, in a loop,
 ### Experiment with tracker MIL
 The algorithm tracks the object well, but has a relatively low speed. It is not possible to stop tracking when the object is lost, and the box does not change size when the tracking object approaches.
 <p align="center">
-  <img align="center" src="https://github.com/Elena4Max/Computer-Vision_Homework/tree/main/lesson_10/data/MIL-2023-07-02_19.26.04.mkv" alt="demo"/>
+  <img align="center" src="https://github.com/Elena4Max/Computer-Vision_Homework/tree/main/lesson_10/data/MIL-2023-07-02_19.26.04.gif" alt="demo"/>
 </p>
 
 ### Experiment with tracker KCF
 The algorithm tracks the object well. Unlike MIL, it stops tracking when the object is lost, but the box also does not change size when the tracking object approaches.
 <p align="center">
-  <img align="center" src="https://github.com/Elena4Max/Computer-Vision_Homework/tree/main/lesson_10/data/KCF-2023-07-02_19.27.13.mkv" alt="demo"/>
+  <img align="center" src="https://github.com/Elena4Max/Computer-Vision_Homework/tree/main/lesson_10/data/KCF-2023-07-02_19.27.13.gif" alt="demo"/>
 </p>
 
 ### Experiment with tracker CSRT
 The algorithm seems to be similar to MIL.
 <p align="center">
-  <img align="center" src="https://github.com/Elena4Max/Computer-Vision_Homework/tree/main/lesson_10/data/CSRT-2023-07-02_19.28.13.mkv" alt="demo"/>
+  <img align="center" src="https://github.com/Elena4Max/Computer-Vision_Homework/tree/main/lesson_10/data/CSRT-2023-07-02_19.28.13.gif" alt="demo"/>
 </p>
 
 ### Step 6
